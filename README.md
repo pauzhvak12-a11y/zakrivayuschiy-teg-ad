@@ -1,1 +1,1 @@
-https://pauzhvak12-a11y.github.io/zakrivayuschiy-teg-ad/
+https://github.com/pauzhvak12-a11y/zakrivayuschiy-teg-ad.git
